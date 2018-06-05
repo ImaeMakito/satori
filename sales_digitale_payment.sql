@@ -109,3 +109,4 @@ with gold_users_table as (
     *
   from
     pripare_table
+    
